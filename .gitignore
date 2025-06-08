@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pkl
+*.csv
+*.ipynb
+.DS_Store
+*.pyc
